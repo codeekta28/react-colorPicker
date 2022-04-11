@@ -1,0 +1,16 @@
+.palette {
+  height: 100vh;
+}
+.palette-color {
+  height: 90%;
+}
+/* footer */
+.palette-footer {
+  height: 4vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.palette-footer .footer-emoji {
+  padding: 0 1rem;
+}
